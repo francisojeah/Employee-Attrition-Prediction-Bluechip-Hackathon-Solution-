@@ -2,6 +2,22 @@
 
 This repository contains my solution for the Employee Attrition Prediction challenge presented at the Bluechip Summit hackathon. The objective of this challenge was to predict the probability of employee attrition within a given company using machine learning techniques.
 
+## Leaderboards
+### Public Leaderboard (20% Test Data)
+
+This leaderboard represents the standings calculated with approximately 20% of the test data at the time of the hackathon. The final results, based on the remaining 80% of the test data, led to different standings.
+<p align="center">
+  <img src="assets/images/Leaderboard-20% of test data.png" width="" alt="Leaderboard-20% of test data" />
+</p>
+
+### Private Leaderboard (80% Test Data - Final Standings)
+
+The private leaderboard reflects the final standings calculated with approximately 80% of the test data at the time of the hackathon. As the competition concluded, this leaderboard showcases the ultimate rankings in the Employee Attrition Prediction challenge. 
+<p align="center">
+  <img src="assets/images/Final Leaderboard-80% of test data.png" width="" alt="Final Leaderboard-80% of test data" />
+</p>
+
+
 ### Problem Statement
 Employee attrition poses a significant challenge for organizations, impacting productivity and incurring high recruitment costs. The task was to develop a predictive model that anticipates the likelihood of an employee leaving the company based on provided data.
 

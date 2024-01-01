@@ -22,7 +22,7 @@ The private leaderboard reflects the final standings calculated with approximate
   <img src="assets/images/private leaderboard.png" width="" alt="Final Leaderboard-80% of test data" />
 </p>
 
-- **Position(out of 158):** 64
+- **Position(out of 158):** 65
 - **Accuracy:** 0.87396
 - **Percentage Accuracy:** 87.396%
 

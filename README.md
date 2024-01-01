@@ -10,8 +10,10 @@ This leaderboard represents the standings calculated with approximately 20% of t
   <img src="assets/images/public leaderboard.png" width="" alt="Leaderboard-20% of test data" />
 </p>
 
-- **Position:** 85
+- **Position(out of 158):** 85
 - **Accuracy:** 0.90164
+- **Percentage Accuracy:** 90.164%
+  
 
 ### Private Leaderboard (80% Test Data - Final Standings)
 
@@ -20,8 +22,9 @@ The private leaderboard reflects the final standings calculated with approximate
   <img src="assets/images/private leaderboard.png" width="" alt="Final Leaderboard-80% of test data" />
 </p>
 
-- **Position:** 64
+- **Position(out of 158):** 64
 - **Accuracy:** 0.87396
+- **Percentage Accuracy:** 87.396%
 
 ### Problem Statement
 Employee attrition poses a significant challenge for organizations, impacting productivity and incurring high recruitment costs. The task was to develop a predictive model that anticipates the likelihood of an employee leaving the company based on provided data.

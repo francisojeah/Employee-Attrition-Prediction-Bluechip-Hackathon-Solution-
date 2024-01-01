@@ -7,7 +7,7 @@ This repository contains my solution for the Employee Attrition Prediction chall
 
 This leaderboard represents the standings calculated with approximately 20% of the test data at the time of the hackathon. The final results, based on the remaining 80% of the test data, led to different standings.
 <p align="center">
-  <img src="assets/images/public leaderboard.png" width="" alt="Leaderboard-20% of test data" />
+  <img src="assets/images/public_leaderboard.png" width="" alt="Leaderboard-20% of test data" />
 </p>
 
 - **Position(out of 158):** 85
@@ -19,7 +19,7 @@ This leaderboard represents the standings calculated with approximately 20% of t
 
 The private leaderboard reflects the final standings calculated with approximately 80% of the test data at the time of the hackathon. As the competition concluded, this leaderboard showcases the ultimate rankings in the Employee Attrition Prediction challenge. 
 <p align="center">
-  <img src="assets/images/private leaderboard.png" width="" alt="Final Leaderboard-80% of test data" />
+  <img src="assets/images/private_leaderboard.png" width="" alt="Final Leaderboard-80% of test data" />
 </p>
 
 - **Position(out of 158):** 65
@@ -33,6 +33,10 @@ Employee attrition poses a significant challenge for organizations, impacting pr
 
 ```bash
 Employee-Attrition-Prediction-Bluechip-Hackathon-Solution/
+├── assets/
+│   └── images/
+│       ├── private_leaderboard.png
+│       └── public_leaderboard.png
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
@@ -41,6 +45,7 @@ Employee-Attrition-Prediction-Bluechip-Hackathon-Solution/
 │   └── models.ipynb
 ├── README.md
 └── requirements.txt
+
 ```
 
 ### Dataset
@@ -56,8 +61,8 @@ The solution involved several key steps:
 - Exploratory Data Analysis (EDA): Understanding the data distribution, identifying patterns, and gaining insights into factors influencing attrition.
 - Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
 - Feature Engineering: Creating new features or transforming existing ones to improve model performance.
-- Model Building: Utilizing machine learning algorithms such as XGBoost, Random Forest, and Logistic Regression to predict the probability of employee attrition.
-- Evaluation: Assessing model performance using appropriate metrics like accuracy, precision, recall, and ROC-AUC.
+- Model Building: Utilizing machine learning algorithms to predict the probability of employee attrition.
+- Evaluation: Assessing model performance using appropriate metrics like accuracy, precision, recall.
 
 
 ## Getting Started

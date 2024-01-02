@@ -40,7 +40,8 @@ Employee-Attrition-Prediction-Bluechip-Hackathon-Solution/
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
-│   └── sample_submission.csv
+│   ├── sample_submission.csv
+│   └── data_with_attrition2.csv
 ├── modeling/
 │   └── models.ipynb
 ├── README.md

@@ -75,7 +75,7 @@ The solution involved several key steps:
 ### Clone the Repository
 
 ```bash
-git https://github.com/francisojeah/Employee-Attrition-Prediction-Bluechip-Hackathon-Solution.git
+git clone https://github.com/francisojeah/Employee-Attrition-Prediction-Bluechip-Hackathon-Solution.git
 ```
 
 ### Install dependencies:

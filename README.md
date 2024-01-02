@@ -91,8 +91,5 @@ pip install -r requirements.txt
 ## Results
 The best-performing model achieved a probability prediction accuracy of 90% on the test set, demonstrating its effectiveness in predicting employee attrition.
 
-## Contributing
-Contributions to improve the solution or explore additional insights are welcome. Fork the repository, make changes, and create a pull request.
-
 ## License
 This project is licensed under the MIT License.

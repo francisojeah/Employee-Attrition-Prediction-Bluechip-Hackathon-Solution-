@@ -86,11 +86,11 @@ pip install -r requirements.txt
 
 ## Usage
 - Place the provided train.csv and test.csv files in the project directory.
-- Run the provided notebooks or scripts to reproduce the analysis, feature engineering, model building, and predictions.
+- Run the provided notebook, models.ipynb, to reproduce the analysis, feature engineering, model building, and predictions.
 - Ensure that the submission file follows the format specified in sample_submission.csv.
 
 ## Results
-The best-performing model achieved a probability prediction accuracy of 90% on the test set, demonstrating its effectiveness in predicting employee attrition.
+The best-performing model achieved a probability prediction accuracy of 90.87% on the test set, demonstrating its effectiveness in predicting employee attrition.
 
 ## License
 This project is licensed under the MIT License.
